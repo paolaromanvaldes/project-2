@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### ETL Mini Project: Crowdfunding Data Analysis
 
 ![Example Image](https://t4.ftcdn.net/jpg/05/53/77/51/360_F_553775113_MZBg3OqGzRwUge1tL1G2QdONqbksK9ay.jpg)
@@ -108,3 +109,7 @@ Chantal Thomas, Sarah Demmon, and Paola Roman
 
 ### Image Source 
 Adobe Stock
+=======
+# Crowdfunding_ETL
+The second project for class with Chantal Paola and Sarah
+>>>>>>> 788a70d8d7cfaa66c3b165d155c9f78933c7cb86
