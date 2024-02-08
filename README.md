@@ -82,7 +82,6 @@ Certainly! Let's break down the steps of the project in more detail:
 
 
 ### Results and SQL Schemas
-### INSERT SQL RESULTS HERE
 
 The ETL pipeline resulted in the creation of four CSV files:
 
@@ -94,9 +93,20 @@ The ETL pipeline resulted in the creation of four CSV files:
 
 4. **contacts.csv**: Contains information about contacts, including "contact_id", "first_name", "last_name", and "email".
 
-The ERD (Entity-Relationship Diagram) for the Crowdfunding Database is as follows:
+## The ERD (Entity-Relationship Diagram) for the Crowdfunding Database is as follows:
 
 ![ERD](images/ERD_ETL.png)
+
+## The SELECT statements for the database are as follows:
+### Campaign Table:
+![campaign](images\campaign_table.png)
+### Category Table:
+![category](images\category_table.png)
+### Contacts Table:
+![contacts](images\contacts_table.png)
+### Subcategory Table:
+![subcategory](images\subcategory_table.png)
+
 
 The PostgreSQL database schema has been saved in the file `crowdfunding_db_schema.sql`.
 
