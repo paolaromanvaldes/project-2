@@ -1,7 +1,7 @@
 
 ### ETL Mini Project: Crowdfunding Data Analysis
+<p align='center'> <img src='https://t4.ftcdn.net/jpg/05/53/77/51/360_F_553775113_MZBg3OqGzRwUge1tL1G2QdONqbksK9ay.jpg'></p>
 
-![Example Image](https://t4.ftcdn.net/jpg/05/53/77/51/360_F_553775113_MZBg3OqGzRwUge1tL1G2QdONqbksK9ay.jpg)
 
 ### Introduction
 
@@ -94,25 +94,23 @@ The ETL pipeline resulted in the creation of four CSV files:
 4. **contacts.csv**: Contains information about contacts, including "contact_id", "first_name", "last_name", and "email".
 
 ## The ERD (Entity-Relationship Diagram) for the Crowdfunding Database is as follows:
+<p align='center'> <img src='images/ERD_ETL.png'></p>
 
-![ERD](images/ERD_ETL.png)
 
 ## The SELECT statements for the database are as follows:
 ### Campaign Table:
+<p align='center'> <img src='images/campaign_table.png'></p>
 
-![campaign](images\campaign_table.png)
 
 ### Category Table:
-
-![category](images\category_table.png)
+<p align='center'> <img src='images/category_table.png'></p>
 
 ### Contacts Table:
-
-![contacts](images\contacts_table.png)
+<p align='center'> <img src='images/contacts_table.png'></p>
 
 ### Subcategory Table:
+<p align='center'> <img src='images/subcategory_table.png'></p>
 
-![subcategory](images\subcategory_table.png)
 
 
 The PostgreSQL database schema has been saved in the file `crowdfunding_db_schema.sql`.
