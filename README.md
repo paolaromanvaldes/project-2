@@ -99,12 +99,19 @@ The ETL pipeline resulted in the creation of four CSV files:
 
 ## The SELECT statements for the database are as follows:
 ### Campaign Table:
+
 ![campaign](images\campaign_table.png)
+
 ### Category Table:
+
 ![category](images\category_table.png)
+
 ### Contacts Table:
+
 ![contacts](images\contacts_table.png)
+
 ### Subcategory Table:
+
 ![subcategory](images\subcategory_table.png)
 
 
